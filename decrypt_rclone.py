@@ -1,4 +1,3 @@
-# Nov 24
 # Decrypt encrypted passwords stored within the rclone configuration file. Will add b64 padding if needed to be %4
 # Key (k) source https://github.com/rclone/rclone/blob/master/fs/config/obscure/obscure.go
 # python decrypt_rclone.py -e [Encrypted Password]
